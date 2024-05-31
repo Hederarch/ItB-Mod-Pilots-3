@@ -26,7 +26,7 @@ This expansion pack includes 6 more unique pilots:
 > An Archive architect and man of the people at heart, Jensen avoids the personal glory of saving the world in favor of the team effort of sticking up for the little guy. Absolutely the type to say "Teamwork makes the dream work" and mean it. That said, he is all grand ideas and big talk without much else to back it up. When the battle turns dire and he's backed into a corner, he's the most cowardly of them all.
 
 ![lodge_blink_nosmoke](https://github.com/Hederarch/ItB-Mod-Pilots-3/assets/66890769/2ae4af27-09a8-4a8a-98d9-92167e301ebd)
-Lodge - Overdrive: (Requires 1 Power) Instead of moving, dash and explode adjacent tiles, then gain Boost. Can no longer repair.
+**Lodge** - Overdrive: (Requires 1 Power) Instead of moving, dash and explode adjacent tiles, then gain Boost. Can no longer repair.
 
 > A semi-sentient killing machine developed in secret away from the surviving islands, Project L.O.D.G.E. is the ultimate mech pilot, capable of pushing weapons to their limits and singlehandedly slaughtering hordes of Vek, though his overclocking makes its mech a self-destructive glass cannon and renders field repairs impossible. Lodge's speech is terse and grim, loathing its role as a living weapon, but its unmatched battlefield effectiveness makes it a force to be reckoned with.
 
