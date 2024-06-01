@@ -16,7 +16,7 @@ This mod is part of a trilogy! Check out the previous one here: https://github.c
 This expansion pack includes 6 more unique pilots:
 
 ![bouncer_blink](https://github.com/Hederarch/ItB-Mod-Pilots-3/assets/66890769/0a2f2696-29db-47b0-9867-496cfa4b9577)
-**Onyx** - Force Fields: (Requires 1 Power) As a free action before repairing, deploy a line of temporary barriers
+**Onyx** - Force Fields: (Requires 1 Power) As a free action before repairing, deploy a line of temporary barriers.
 
 > An elite Peace Officer from Pinnacle Private Security and test pilot for the original Zenith Guard, Onyx uses a modular hardlight field to manage the Vek's attacks without violent intervention, and sees direct attacks against them as a necessary evil. Strict and by the book, he looks up to Zenith as a role model and likes to think of himself as her second in command, though he definitely isn't.
 
