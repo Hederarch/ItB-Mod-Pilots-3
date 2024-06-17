@@ -73,7 +73,7 @@ local ApplyEffect = function(mission)
 			local rand = 0
 			for i=0,math.random(1,4) do rand = math.random() end -- it's not a good solution, but it works!
 			if rand < 0.33 then user:AddWeapon("Pilot_TC_Bombline",true)
-			elseif rand > 0.66 then user:AddWeapon("endPilot_FireDrop",true)
+			elseif rand > 0.66 then user:AddWeapon("Pilot_FireDrop",true)
 						else user:AddWeapon("Pilot_ShockDrop",true) end
 			
 				modApi:conditionalHook(
